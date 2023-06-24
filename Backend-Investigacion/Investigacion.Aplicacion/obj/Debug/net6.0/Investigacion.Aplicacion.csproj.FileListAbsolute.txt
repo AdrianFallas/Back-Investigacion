@@ -1,0 +1,15 @@
+C:\Users\X\Desktop\Back-Investigacion\Backend-Investigacion\Investigacion.Aplicacion\bin\Debug\net6.0\Investigacion.Aplicacion.deps.json
+C:\Users\X\Desktop\Back-Investigacion\Backend-Investigacion\Investigacion.Aplicacion\bin\Debug\net6.0\Investigacion.Aplicacion.dll
+C:\Users\X\Desktop\Back-Investigacion\Backend-Investigacion\Investigacion.Aplicacion\bin\Debug\net6.0\Investigacion.Aplicacion.pdb
+C:\Users\X\Desktop\Back-Investigacion\Backend-Investigacion\Investigacion.Aplicacion\bin\Debug\net6.0\Investigacion.Domain.dll
+C:\Users\X\Desktop\Back-Investigacion\Backend-Investigacion\Investigacion.Aplicacion\bin\Debug\net6.0\Investigacion.Domain.pdb
+C:\Users\X\Desktop\Back-Investigacion\Backend-Investigacion\Investigacion.Aplicacion\obj\Debug\net6.0\Investigacion.Aplicacion.csproj.AssemblyReference.cache
+C:\Users\X\Desktop\Back-Investigacion\Backend-Investigacion\Investigacion.Aplicacion\obj\Debug\net6.0\Investigacion.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X\Desktop\Back-Investigacion\Backend-Investigacion\Investigacion.Aplicacion\obj\Debug\net6.0\Investigacion.Aplicacion.AssemblyInfoInputs.cache
+C:\Users\X\Desktop\Back-Investigacion\Backend-Investigacion\Investigacion.Aplicacion\obj\Debug\net6.0\Investigacion.Aplicacion.AssemblyInfo.cs
+C:\Users\X\Desktop\Back-Investigacion\Backend-Investigacion\Investigacion.Aplicacion\obj\Debug\net6.0\Investigacion.Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\X\Desktop\Back-Investigacion\Backend-Investigacion\Investigacion.Aplicacion\obj\Debug\net6.0\Investigacion.Aplicacion.csproj.CopyComplete
+C:\Users\X\Desktop\Back-Investigacion\Backend-Investigacion\Investigacion.Aplicacion\obj\Debug\net6.0\Investigacion.Aplicacion.dll
+C:\Users\X\Desktop\Back-Investigacion\Backend-Investigacion\Investigacion.Aplicacion\obj\Debug\net6.0\refint\Investigacion.Aplicacion.dll
+C:\Users\X\Desktop\Back-Investigacion\Backend-Investigacion\Investigacion.Aplicacion\obj\Debug\net6.0\Investigacion.Aplicacion.pdb
+C:\Users\X\Desktop\Back-Investigacion\Backend-Investigacion\Investigacion.Aplicacion\obj\Debug\net6.0\ref\Investigacion.Aplicacion.dll

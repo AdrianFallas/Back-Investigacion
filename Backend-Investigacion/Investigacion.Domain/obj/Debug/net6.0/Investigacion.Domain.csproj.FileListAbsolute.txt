@@ -1,0 +1,12 @@
+C:\Users\X\Desktop\Back-Investigacion\Backend-Investigacion\Investigacion.Domain\bin\Debug\net6.0\Investigacion.Domain.deps.json
+C:\Users\X\Desktop\Back-Investigacion\Backend-Investigacion\Investigacion.Domain\bin\Debug\net6.0\Investigacion.Domain.dll
+C:\Users\X\Desktop\Back-Investigacion\Backend-Investigacion\Investigacion.Domain\bin\Debug\net6.0\Investigacion.Domain.pdb
+C:\Users\X\Desktop\Back-Investigacion\Backend-Investigacion\Investigacion.Domain\obj\Debug\net6.0\Investigacion.Domain.csproj.AssemblyReference.cache
+C:\Users\X\Desktop\Back-Investigacion\Backend-Investigacion\Investigacion.Domain\obj\Debug\net6.0\Investigacion.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X\Desktop\Back-Investigacion\Backend-Investigacion\Investigacion.Domain\obj\Debug\net6.0\Investigacion.Domain.AssemblyInfoInputs.cache
+C:\Users\X\Desktop\Back-Investigacion\Backend-Investigacion\Investigacion.Domain\obj\Debug\net6.0\Investigacion.Domain.AssemblyInfo.cs
+C:\Users\X\Desktop\Back-Investigacion\Backend-Investigacion\Investigacion.Domain\obj\Debug\net6.0\Investigacion.Domain.csproj.CoreCompileInputs.cache
+C:\Users\X\Desktop\Back-Investigacion\Backend-Investigacion\Investigacion.Domain\obj\Debug\net6.0\Investigacion.Domain.dll
+C:\Users\X\Desktop\Back-Investigacion\Backend-Investigacion\Investigacion.Domain\obj\Debug\net6.0\refint\Investigacion.Domain.dll
+C:\Users\X\Desktop\Back-Investigacion\Backend-Investigacion\Investigacion.Domain\obj\Debug\net6.0\Investigacion.Domain.pdb
+C:\Users\X\Desktop\Back-Investigacion\Backend-Investigacion\Investigacion.Domain\obj\Debug\net6.0\ref\Investigacion.Domain.dll
