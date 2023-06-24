@@ -20,6 +20,9 @@ namespace Backend_Investigacion
             builder.Services.AddControllers();
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+            var proveedor = builder.Services.BuildServiceProvider();
+            var configuration = proveedor.GetService<IConfiguration>();
+
 
             // Register DbContext
             builder.Services.AddDbContext<ApplicationDbContext>(options =>
@@ -30,6 +33,19 @@ namespace Backend_Investigacion
             builder.Services.AddScoped<IPersonService, PersonService>();
             // Otros servicios personalizados
 
+            builder.Services.AddCors(opciones =>
+            {
+                var frontendURL = configuration.GetValue<string>("frontendURL");
+
+
+                opciones.AddDefaultPolicy(builder =>
+                {
+                    builder.WithOrigins(frontendURL).AllowAnyMethod().AllowAnyHeader();
+                }
+                );
+            }
+            );
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -38,6 +54,7 @@ namespace Backend_Investigacion
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
+            app.UseCors();
 
             app.UseAuthorization();
 

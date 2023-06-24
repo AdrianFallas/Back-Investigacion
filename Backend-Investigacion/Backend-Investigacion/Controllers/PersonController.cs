@@ -37,8 +37,10 @@ namespace Backend_Investigacion.Controllers
         }
 
         [HttpPost]
-        public async Task<ActionResult> CreatePerson(Person person)
+        public async Task<ActionResult> addPerson(Person person)
         {
+            Console.WriteLine(person.id);
+            person.id = 0;
             await _personService.CreatePerson(person);
             return Ok();
         }
